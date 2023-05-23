@@ -15,6 +15,3 @@ Para compilar el código, abre una terminal o línea de comandos y navega hasta 
 
 Para ejecutar el código, abre una terminal o línea de comandos y navega hasta el directorio donde se encuentra el archivo ejecutable `arboles`. Luego, ejecuta el comando `./arboles < in.txt` (o el comando correspondiente para tu sistema operativo).
 
-## Contribuir
-
-Si deseas contribuir al repositorio, puedes hacer un fork y enviar un pull request con tus cambios. Asegúrate de seguir las convenciones de código y documentación del proyecto.
