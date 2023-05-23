@@ -26,12 +26,6 @@ using namespace std;
 template <class T>
 class ArbolN //Arboles N-arios
 {
-    struct NodeInfo {
-        NodoArbol<T>* node;
-        int level;
-        int position;
-        NodeInfo(NodoArbol<T>* node, int level, int position) : node(node), level(level), position(position) {}
-    };
 
     NodoArbol<T> *raiz;
 
