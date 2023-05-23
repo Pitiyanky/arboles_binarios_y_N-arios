@@ -7,9 +7,14 @@ Este repositorio contiene implementaciones de árboles binarios y árboles n-ari
 - `main.cpp`: Archivo principal para ejecutar el código.
 - `librería de árboles binarios`: Librería que incluye una clase `NodoBinario` para representar los nodos de un árbol binario.
 - `librería de árboles n-arios`: Librería que incluye una clase `NodoArbol` para representar los nodos de un árbol n-ario.
+- `Makefile`: Archivo para compilar el código usando `make`.
 
 ## Compilación y Ejecución
 
-Para compilar el código, abre una terminal o línea de comandos y navega hasta el directorio donde se encuentra el archivo `main.cpp`. Luego, ejecuta el comando `g++ main.cpp -o main` (o el comando correspondiente para tu sistema operativo y compilador de C++). Esto generará un archivo ejecutable llamado `main`.
+Para compilar el código, abre una terminal o línea de comandos y navega hasta el directorio donde se encuentra el archivo `Makefile`. Luego, ejecuta el comando `make`. Esto generará un archivo ejecutable llamado `arboles`.
 
-Para ejecutar el código, abre una terminal o línea de comandos y navega hasta el directorio donde se encuentra el archivo ejecutable `main`. Luego, ejecuta el comando `./main` (o el comando correspondiente para tu sistema operativo).
+Para ejecutar el código, abre una terminal o línea de comandos y navega hasta el directorio donde se encuentra el archivo ejecutable `arboles`. Luego, ejecuta el comando `./arboles < in.txt` (o el comando correspondiente para tu sistema operativo).
+
+## Contribuir
+
+Si deseas contribuir al repositorio, puedes hacer un fork y enviar un pull request con tus cambios. Asegúrate de seguir las convenciones de código y documentación del proyecto.
