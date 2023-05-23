@@ -1,0 +1,36 @@
+9
+marian-M vero-M
+PREORDEN alvaro-N marian-M vero-M
+INORDEN marian-M alvaro-N vero-M
+
+manu-M maxi-M
+POSTORDEN manu-M maxi-M giuli-N
+INORDEN manu-M giuli-N maxi-M
+
+Maria-N Juan-N
+PREORDEN Alvaro-N Luis-M Jesus-M Maria-N Pablo-M Andres-M Hitler-M Zedong-M Jose-M Moises-M Juan-N
+INORDEN Maria-N Jesus-M Pablo-M Luis-M Hitler-M Andres-M Zedong-M Alvaro-N Moises-M Jose-M Juan-N
+
+Hitler-N ZZZ-M
+PREORDEN Jose-M Andres-N Mercedez-M Moises-N Hitler-N Stalin-N Camila-M Kim-N JongUn-M ilSung-N Maria-N Luis-M Valeria-M Platon-N Socrates-N Chopin-M PolPot-M ZZZ-M Pitagoras-N Bach-M Mozart-M
+INORDEN Hitler-N Moises-N Stalin-N Mercedez-M Camila-M Andres-N JongUn-M Kim-N ilSung-N Jose-M Luis-M Maria-N Chopin-M Socrates-N PolPot-M ZZZ-M Platon-N Pitagoras-N Valeria-M Bach-M Mozart-M
+
+Camila-M Luis-M
+PREORDEN Jose-M Andres-N Mercedez-M Moises-N Hitler-N Stalin-N Camila-M Kim-N JongUn-M ilSung-N Maria-N Luis-M Valeria-M Platon-N Socrates-N Chopin-M PolPot-M ZZZ-M Pitagoras-N Bach-M Mozart-M
+INORDEN Hitler-N Moises-N Stalin-N Mercedez-M Camila-M Andres-N JongUn-M Kim-N ilSung-N Jose-M Luis-M Maria-N Chopin-M Socrates-N PolPot-M ZZZ-M Platon-N Pitagoras-N Valeria-M Bach-M Mozart-M
+
+Alvaro-N Juan-N
+PREORDEN Alvaro-N Luis-M Jesus-M Maria-N Pablo-M Andres-M Hitler-M Zedong-M Jose-M Moises-M Juan-N
+INORDEN Maria-N Jesus-M Pablo-M Luis-M Hitler-M Andres-M Zedong-M Alvaro-N Moises-M Jose-M Juan-N
+
+Kim-N Luis-M
+PREORDEN Jose-M Andres-N Mercedez-M Moises-N Hitler-N Stalin-N Camila-M Kim-N JongUn-M ilSung-N Maria-N Luis-M Valeria-M Platon-N Socrates-N Chopin-M PolPot-M ZZZ-M Pitagoras-N Bach-M Mozart-M
+INORDEN Hitler-N Moises-N Stalin-N Mercedez-M Camila-M Andres-N JongUn-M Kim-N ilSung-N Jose-M Luis-M Maria-N Chopin-M Socrates-N PolPot-M ZZZ-M Platon-N Pitagoras-N Valeria-M Bach-M Mozart-M
+
+Kim-N Maria-N
+PREORDEN Jose-M Andres-N Mercedez-M Moises-N Hitler-N Stalin-N Camila-M Kim-N JongUn-M ilSung-N Maria-N Luis-M Valeria-M Platon-N Socrates-N Chopin-M PolPot-M ZZZ-M Pitagoras-N Bach-M Mozart-M
+INORDEN Hitler-N Moises-N Stalin-N Mercedez-M Camila-M Andres-N JongUn-M Kim-N ilSung-N Jose-M Luis-M Maria-N Chopin-M Socrates-N PolPot-M ZZZ-M Platon-N Pitagoras-N Valeria-M Bach-M Mozart-M
+
+Hitler-N Stalin-N
+PREORDEN Jose-M Andres-N Mercedez-M Moises-N Hitler-N Stalin-N Camila-M Kim-N JongUn-M ilSung-N Maria-N Luis-M Valeria-M Platon-N Socrates-N Chopin-M PolPot-M ZZZ-M Pitagoras-N Bach-M Mozart-M
+INORDEN Hitler-N Moises-N Stalin-N Mercedez-M Camila-M Andres-N JongUn-M Kim-N ilSung-N Jose-M Luis-M Maria-N Chopin-M Socrates-N PolPot-M ZZZ-M Platon-N Pitagoras-N Valeria-M Bach-M Mozart-M
